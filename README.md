@@ -35,6 +35,7 @@ Transitioning my professional experience into Data Analytics
 📫 **Connect with me**
 
 LinkedIn: https://www.linkedin.com/in/ivane-diaz-moreno/
+
 Email: ivanediazm1998@gmail.com
 
 <!--
