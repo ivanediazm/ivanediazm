@@ -1,42 +1,41 @@
-Hi, I'm **Iván Díaz** 👋
+# Hi, I'm **Iván Díaz** 👋
 
-**Data Analyst**
+## **Data Analyst**
 
 I am a data analyst focused on transforming data into clear, actionable insights that support business decision-making.
 
 My background in operations, logistics, inventory management, and continuous improvement allows me to combine business experience with data analysis to identify patterns, optimize processes, and solve real-world problems.
 
-🛠️ **Technical Skills**
-Python: Pandas, Matplotlib, Seaborn
-SQL
-Power BI
-Excel
-Google Sheets
-Statistics
-A/B Testing
+### 🛠️ **Technical Skills**
+- Python: Pandas, Matplotlib, Seaborn
+- SQL
+- Power BI
+- Excel
+- Google Sheets
+- Statistics
+- A/B Testing
 
-📊 **Featured Projects**
+### 📊 **Featured Projects**
 
 🚧 Currently building my data analytics portfolio.
 
 Projects coming soon:
 
-Urban Mobility & Economic Productivity Analysis
-E-commerce Funnel Analysis
-Sales Analysis with Power BI
-Inventory Analysis & Operational KPIs
+- Urban Mobility & Economic Productivity Analysis
+- E-commerce Funnel Analysis
+- Sales Analysis with Power BI
+- Inventory Analysis & Operational KPIs
 
-🎯 **Currently**
+### 🎯 **Currently**
 
-Building data analytics projects with real-world business applications
-Strengthening my skills in Python, SQL and Power BI
-Transitioning my professional experience into Data Analytics
+- Building data analytics projects with real-world business applications
+- Strengthening my skills in Python, SQL and Power BI
+- Transitioning my professional experience into Data Analytics
 
-📫 **Connect with me**
+### 📫 **Connect with me**
 
-LinkedIn: https://www.linkedin.com/in/ivane-diaz-moreno/
-
-Email: ivanediazm1998@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ivane-diaz-moreno/
+- Email: ivanediazm1998@gmail.com
 
 <!--
 
