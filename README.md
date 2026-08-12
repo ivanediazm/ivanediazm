@@ -16,15 +16,19 @@ My background in operations, logistics, inventory management, and continuous imp
 - A/B Testing
 
 ### 📊 **Featured Projects**
+#### 🚦 Urban Mobility & Economic Analysis
+Exploratory analysis of traffic congestion and economic productivity across 15 Latin American cities using Python.
 
-🚧 Currently building my data analytics portfolio.
+**Tools:** Python, Pandas, Matplotlib, Seaborn
+
+🔗 [View Project](https://github.com/ivanediazm/urban-mobility-economic-analysis)
+
 
 Projects coming soon:
 
-- Urban Mobility & Economic Productivity Analysis
 - E-commerce Funnel Analysis
 - Sales Analysis with Power BI
-- Inventory Analysis & Operational KPIs
+- Excel Analysis with Excel
 
 ### 🎯 **Currently**
 
