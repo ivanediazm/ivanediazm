@@ -15,19 +15,27 @@ My background in operations, logistics, inventory management, and continuous imp
 - Statistics
 - A/B Testing
 
-### 📊 **Featured Projects**
+### 📊 Featured Projects
+
 #### 🚦 Urban Mobility & Economic Analysis
-Exploratory analysis of traffic congestion and economic productivity across 15 Latin American cities using Python.
+Exploratory analysis of traffic congestion and economic productivity across Latin American cities using Python.
 
-**Tools:** Python, Pandas, Matplotlib, Seaborn
-
+**Tools:** Python, Pandas, Matplotlib, Seaborn  
 🔗 [View Project](https://github.com/ivanediazm/urban-mobility-economic-analysis)
 
+---
+
+#### 📈 Regional Sales & Profitability Analysis
+Interactive Power BI analysis focused on revenue, profitability, product performance, customer concentration, and regional sales trends.
+
+**Tools:** Power BI, DAX, Power Query, Excel  
+🔗 [View Project](https://github.com/ivanediazm/regional-sales-powerbi-analysis)
+
+---
 
 Projects coming soon:
 
-- E-commerce Funnel Analysis
-- Sales Analysis with Power BI
+- E-commerce Funnel AnalysisI
 - Excel Analysis with Excel
 
 ### 🎯 **Currently**
