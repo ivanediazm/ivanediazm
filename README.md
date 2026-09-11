@@ -33,10 +33,13 @@ Interactive Power BI analysis focused on revenue, profitability, product perform
 
 ---
 
-Projects coming soon:
+#### 📱 ConnectaTel Customer Behavior Analysis
+Customer segmentation and usage analysis for a telecommunications company, focused on behavior patterns, outliers, plan usage, and retention opportunities.
 
-- E-commerce Funnel AnalysisI
-- Excel Analysis with Excel
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab  
+🔗 [View Project](https://github.com/ivanediazm/telecom-analysis)
+
+---
 
 ### 🎯 **Currently**
 
