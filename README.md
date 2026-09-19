@@ -7,18 +7,23 @@ I am a data analyst focused on transforming data into clear, actionable insights
 My background in operations, logistics, inventory management, and continuous improvement allows me to combine business experience with data analysis to identify patterns, optimize processes, and solve real-world problems.
 
 ### 🛠️ **Technical Skills**
-- Python: Pandas, Matplotlib, Seaborn
+
+- Python: Pandas, NumPy, Matplotlib, Seaborn, SciPy
 - SQL
 - Power BI
+- DAX
+- Power Query
 - Excel
 - Google Sheets
-- Statistics
+- Descriptive Statistics
+- Correlation Analysis
 - A/B Testing
+- Data Cleaning & Visualization
 
-### 📊 Featured Projects
+### 📊 **Featured Projects**
 
 #### 🚦 Urban Mobility & Economic Analysis
-Exploratory analysis of traffic congestion and economic productivity across Latin American cities using Python.
+Exploratory analysis of traffic congestion and economic productivity across Latin American cities, focused on identifying mobility patterns, outliers, and infrastructure-related insights.
 
 **Tools:** Python, Pandas, Matplotlib, Seaborn  
 🔗 [View Project](https://github.com/ivanediazm/urban-mobility-economic-analysis)
@@ -26,7 +31,7 @@ Exploratory analysis of traffic congestion and economic productivity across Lati
 ---
 
 #### 📈 Regional Sales & Profitability Analysis
-Interactive Power BI analysis focused on revenue, profitability, product performance, customer concentration, and regional sales trends.
+Interactive Power BI analysis of revenue, profitability, product performance, customer concentration, and regional sales trends, with business recommendations focused on margin improvement and commercial diversification.
 
 **Tools:** Power BI, DAX, Power Query, Excel  
 🔗 [View Project](https://github.com/ivanediazm/regional-sales-powerbi-analysis)
@@ -34,18 +39,28 @@ Interactive Power BI analysis focused on revenue, profitability, product perform
 ---
 
 #### 📱 ConnectaTel Customer Behavior Analysis
-Customer segmentation and usage analysis for a telecommunications company, focused on behavior patterns, outliers, plan usage, and retention opportunities.
+Customer segmentation and usage analysis for a telecommunications company, focused on behavioral patterns, plan usage, outlier detection, and customer retention opportunities.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab  
 🔗 [View Project](https://github.com/ivanediazm/telecom-analysis)
 
 ---
 
+#### 🛒 NovaRetail Customer Correlation Analysis
+Exploratory statistical analysis of customer behavior to identify the variables most strongly associated with annual revenue, including correlation, collinearity, and categorical association analysis.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Google Colab  
+**Methods:** Pearson, Spearman, Point-Biserial Correlation, Cramér's V  
+🔗 [View Project](https://github.com/ivanediazm/novaretail-customer-correlation-analysis)
+
+---
+
 ### 🎯 **Currently**
 
 - Building data analytics projects with real-world business applications
-- Strengthening my skills in Python, SQL and Power BI
-- Transitioning my professional experience into Data Analytics
+- Strengthening my skills in Python, SQL, Power BI, and statistical analysis
+- Expanding my portfolio with projects focused on customer behavior, business intelligence, and decision-making
+- Applying my previous experience in operations and logistics to data-driven problem solving
 
 ### 📫 **Connect with me**
 
